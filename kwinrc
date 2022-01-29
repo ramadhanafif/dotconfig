@@ -1,0 +1,12 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=695d9ac3-8680-4ddd-a503-d925d2bad9f0
+Id_2=0e8f880a-bc4d-4f0f-9317-d4b3c40b2b0a
+Name_2=New Desktop
+Number=2
+Rows=1

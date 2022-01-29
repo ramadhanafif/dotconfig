@@ -1,0 +1,19 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI-A-0 XPosition 1920x1080=421
+HDMI-A-0 YPosition 1920x1080=536
+State=AAAA/wAAAAD9AAAAAAAAAXIAAAPXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP Height 1920x1080=1040
+eDP Width 1920x1080=370
+eDP XPosition 1920x1080=1540
+eDP YPosition 1920x1080=10
+splitterSizes=217,149

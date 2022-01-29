@@ -1,0 +1,35 @@
+[file:///home/afif/.config/alacritty/alacritty.yml]
+Bookmarks=
+Checksum=1e7aa6cb9b7408a7c7d7190a794e198f39d4f2d7
+Encoding=UTF-8
+Highlighting=YAML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=YAML
+Mode Set By User=false
+Time=2021,12,9,3,55,23.623
+URL=file:///home/afif/.config/alacritty/alacritty.yml
+
+[file:///home/afif/.config/i3/config]
+Bookmarks=
+Checksum=1c1d8e2e7d602e2569de67aa37ffac880ed2a92c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2021,12,14,1,57,28.459
+URL=file:///home/afif/.config/i3/config
+
+[file:///home/afif/naturalscroll.sh]
+Bookmarks=
+Checksum=6c259890550f64082b0d4707da63aaa2b3b29246
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2021,12,10,7,22,38.163
+URL=file:///home/afif/naturalscroll.sh

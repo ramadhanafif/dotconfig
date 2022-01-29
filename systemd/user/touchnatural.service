@@ -1,0 +1,8 @@
+[Unit]
+Description=Enable natural scroll
+
+[Service]
+ExecStart=xinput --set-prop 16 318 1
+
+[Install]
+WantedBy=multi-user.target

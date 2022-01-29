@@ -1,0 +1,30 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+HDMI-A-0 Height 1920x1080=1040
+HDMI-A-0 Width 1920x1080=626
+HDMI-A-0 XPosition 1920x1080=1284
+HDMI-A-0 YPosition 1920x1080=10
+State=AAAA/wAAAAD9AAAAAAAAAnIAAAPXAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP Height 1920x1080=1040
+eDP Width 1920x1080=626
+eDP XPosition 1920x1080=1284
+eDP YPosition 1920x1080=10
+
+[Recent Files]
+File1[$e]=$HOME/alacritty-theme/README.md
+File2[$e]=$HOME/c/UniAdmissions/Transcript.pdf
+File3[$e]=$HOME/c/UniAdmissions/CV 2020 Muhammad Afif Ramadhan.pdf
+File4[$e]=$HOME/Downloads/5_6311886515181978471.pdf
+File5[$e]=$HOME/ramad/Downloads/Paper (1).pdf
+File6[$e]=$HOME/Downloads/Muhammad Afif Ramadhan.pdf
+File7[$e]=$HOME/Downloads/WhatsApp Image 2022-01-17 at 10.15.23 PM.jpeg
+Name1[$e]=README.md
+Name2[$e]=Transcript.pdf
+Name3[$e]=CV 2020 Muhammad Afif Ramadhan.pdf
+Name4[$e]=5_6311886515181978471.pdf
+Name5[$e]=Paper (1).pdf
+Name6[$e]=Muhammad Afif Ramadhan.pdf
+Name7[$e]=WhatsApp Image 2022-01-17 at 10.15.23 PM.jpeg

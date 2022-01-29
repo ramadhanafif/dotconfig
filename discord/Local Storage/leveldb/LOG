@@ -1,0 +1,5 @@
+2022/01/05-19:01:57.303 463a Creating DB /home/afif/.config/discord/Local Storage/leveldb since it was missing.
+2022/01/05-19:01:57.313 463a Reusing MANIFEST /home/afif/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/01/05-19:03:09.764 4627 Level-0 table #5: started
+2022/01/05-19:03:09.774 4627 Level-0 table #5: 134198 bytes OK
+2022/01/05-19:03:09.777 4627 Delete type=0 #3

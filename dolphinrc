@@ -1,0 +1,33 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/
+eDP Height 1920x1080=560
+eDP Width 1920x1080=1280
+
+[General]
+Version=201
+ViewPropsTimestamp=2021,11,29,12,3,53.247
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-A-0 Height 1920x1080=606
+HDMI-A-0 Width 1920x1080=438
+
+[MainWindow]
+HDMI-A-0 Height 1920x1080=1007
+HDMI-A-0 Width 1920x1080=626
+HDMI-A-0 XPosition 1920x1080=1284
+HDMI-A-0 YPosition 1920x1080=29
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP Height 1920x1080=1007
+eDP Width 1920x1080=760
+eDP XPosition 1920x1080=0
+eDP YPosition 1920x1080=29
+
+[SettingsDialog]
+eDP Height 1920x1080=438
+eDP Width 1920x1080=589

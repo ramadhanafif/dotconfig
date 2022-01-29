@@ -1,0 +1,82 @@
+[2021-12-12 11:40:48.838] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-12-12 11:40:49.821] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2021-12-12 11:40:50.166] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.68.0
+[2021-12-12 11:40:50.342] [sharedprocess] [info] Extension is already requested to install ms-vscode-remote.remote-ssh-edit
+[2021-12-12 11:40:50.467] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.283fcb37-dd28-4f31-a2ed-05d336565360: ms-vscode-remote.remote-ssh-edit
+[2021-12-12 11:40:50.482] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.68.0
+[2021-12-12 11:40:50.485] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[2021-12-12 11:40:50.490] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-12-12 11:40:52.095] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.68.0
+[2021-12-12 11:40:52.287] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.fc74ebc9-0b7d-41ee-bd7a-226746059e2e: ms-vscode-remote.remote-ssh
+[2021-12-12 11:40:52.298] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode-remote.remote-ssh-0.68.0
+[2021-12-12 11:40:52.300] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2021-12-12 11:40:52.301] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2021-12-12 11:40:54.368] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-12-12 11:40:56.732] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.7.1
+[2021-12-12 11:40:57.335] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.c4fa5994-8d82-4c0f-b6f3-af516a95c22e: ms-vscode.cpptools
+[2021-12-12 11:40:57.353] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode.cpptools-1.7.1
+[2021-12-12 11:40:57.356] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2021-12-12 11:40:57.361] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-12-12 11:41:03.033] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2021-12-12 11:41:04.824] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2021-12-12 11:41:04.862] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.f9515f65-9eea-44c3-8192-146e6316cf74: ms-vscode.cpptools-themes
+[2021-12-12 11:41:04.870] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2021-12-12 11:41:04.874] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2021-12-12 11:41:04.876] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2021-12-12 11:41:07.017] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2021-12-12 11:41:13.934] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2021-12-12 11:41:13.935] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-12-12 11:41:13.936] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2021-12-12 11:41:13.937] [sharedprocess] [info] Installing extension: twxs.cmake
+[2021-12-12 11:41:13.938] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:13.938] [sharedprocess] [info] Installing extension: cschlosser.doxdocgen
+[2021-12-12 11:41:13.939] [sharedprocess] [info] Extension is already requested to install cschlosser.doxdocgen
+[2021-12-12 11:41:13.939] [sharedprocess] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:13.940] [sharedprocess] [info] Extension is already requested to install cschlosser.doxdocgen
+[2021-12-12 11:41:13.940] [sharedprocess] [info] Extension is already requested to install twxs.cmake
+[2021-12-12 11:41:13.941] [sharedprocess] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:13.942] [sharedprocess] [info] Extension is already requested to install cschlosser.doxdocgen
+[2021-12-12 11:41:13.943] [sharedprocess] [info] Extension is already requested to install ms-vscode.cmake-tools
+[2021-12-12 11:41:13.943] [sharedprocess] [info] Extension is already requested to install twxs.cmake
+[2021-12-12 11:41:13.943] [sharedprocess] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:13.944] [sharedprocess] [info] Extension is already requested to install cschlosser.doxdocgen
+[2021-12-12 11:41:13.946] [sharedprocess] [info] Extension is already requested to install ms-vscode-remote.remote-containers
+[2021-12-12 11:41:13.947] [sharedprocess] [info] Extension is already requested to install ms-vscode.cmake-tools
+[2021-12-12 11:41:13.947] [sharedprocess] [info] Extension is already requested to install twxs.cmake
+[2021-12-12 11:41:13.948] [sharedprocess] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:13.948] [sharedprocess] [info] Extension is already requested to install cschlosser.doxdocgen
+[2021-12-12 11:41:15.991] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.209.5
+[2021-12-12 11:41:16.454] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.63.5
+[2021-12-12 11:41:16.457] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.9.2
+[2021-12-12 11:41:16.704] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.f378bd4b-14ac-40ca-acd2-2902d1a89366: ms-vscode-remote.remote-wsl
+[2021-12-12 11:41:16.717] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode-remote.remote-wsl-0.63.5
+[2021-12-12 11:41:16.720] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2021-12-12 11:41:16.897] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.2ea0ce45-8f9a-4ffa-a506-1b8bf49a340b: ms-vscode.cmake-tools
+[2021-12-12 11:41:16.911] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode.cmake-tools-1.9.2
+[2021-12-12 11:41:16.913] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2021-12-12 11:41:17.159] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.15a2184b-8420-4795-b0c5-8eb396530a94: ms-vscode-remote.remote-containers
+[2021-12-12 11:41:17.172] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode-remote.remote-containers-0.209.5
+[2021-12-12 11:41:17.174] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2021-12-12 11:41:17.211] [sharedprocess] [info] Downloaded extension: cschlosser.doxdocgen /home/afif/.config/Code/CachedExtensionVSIXs/cschlosser.doxdocgen-1.3.2
+[2021-12-12 11:41:17.491] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/afif/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2021-12-12 11:41:17.883] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.b44630b1-5e7a-4779-b25e-d6f603431820: twxs.cmake
+[2021-12-12 11:41:17.893] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/twxs.cmake-0.0.17
+[2021-12-12 11:41:17.895] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2021-12-12 11:41:18.620] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.807cfce5-71f1-4f03-b2e4-6f26a697ba8a: cschlosser.doxdocgen
+[2021-12-12 11:41:18.632] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/cschlosser.doxdocgen-1.3.2
+[2021-12-12 11:41:18.634] [sharedprocess] [info] Extracting completed. cschlosser.doxdocgen
+[2021-12-12 11:41:20.653] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/afif/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.10
+[2021-12-12 11:41:20.683] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.ccd924d0-a761-4afd-b213-afa14160c8a1: jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:20.688] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.10
+[2021-12-12 11:41:20.689] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:22.155] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/afif/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.1.0
+[2021-12-12 11:41:22.181] [sharedprocess] [info] Extracted extension to /home/afif/.vscode/extensions/.62d92de9-893f-4f00-b696-8483fa48b769: ms-vscode.cpptools-extension-pack
+[2021-12-12 11:41:22.190] [sharedprocess] [info] Renamed to /home/afif/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.1.0
+[2021-12-12 11:41:22.192] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2021-12-12 11:41:22.200] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2021-12-12 11:41:22.201] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2021-12-12 11:41:22.202] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2021-12-12 11:41:22.202] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2021-12-12 11:41:22.203] [sharedprocess] [info] Extension installed successfully: cschlosser.doxdocgen
+[2021-12-12 11:41:22.203] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2021-12-12 11:41:22.203] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
